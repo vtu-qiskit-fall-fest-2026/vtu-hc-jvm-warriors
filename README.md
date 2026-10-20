@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Jvm warriors** · Team ID `VTU-QFF-HC-0188` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Jvm warriors)
+[⬆ Back to Top](#jvm-warriors)
 
 </div>
